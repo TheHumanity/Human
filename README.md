@@ -7,11 +7,12 @@ This is part of AYCH operations for participation of social development.
 
 A country is classified among the Least Developed Countries if it meets three criteria:
 
-Poverty – adjustable criterion based on GNIper capita averaged over three years. As of 2018 a country must have GNI per capita less than US$ 1,025 to be included on the list, and over $1,230 to graduate from it.
+1.  Poverty – adjustable criterion based on GNIper capita averaged over three years. As of 2018 a country must have GNI per capita less than US$ 1,025 to be included on the list, and over $1,230 to graduate from it.
 
-Human resource weakness (based on indicators of nutrition, health, education and adult literacy).
+2.  Human resource weakness (based on indicators of nutrition, health, education and adult literacy).
 
-Economic vulnerability (based on instability of agricultural production, instability of exports of goods and services, economic importance of non-traditional activities, merchandise export concentration, handicap of economic smallness, and the percentage of population displaced by natural disasters).
+3.  Economic vulnerability (based on instability of agricultural production, instability of exports of goods and services, economic importance of non-traditional activities, merchandise export concentration, handicap of economic smallness, and the percentage of population displaced by natural disasters).
+
 
 As of 2018, 47 countries are classified as LDC, while five have been upgraded between 1994 and 2017. The WTO recognizes the UN list of LDCs in toto. Philosophically,
 
@@ -92,7 +93,7 @@ In Africa, there are 33 countries that are classified as least developed countr
 
 ￼- Zambia
 
-- Americas
+Americas
 
 In the Americas, there is 1 country that is classified as a least developed country:
 
