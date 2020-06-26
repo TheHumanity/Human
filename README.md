@@ -12,7 +12,7 @@ The worldometers.info writes that the current world population is 7.8 billion as
 However, the LDCs account for less than 2 per cent of world GDP and around 1 per cent of world trade.
 
 
-According to UN, country is classified among the Least Developed Countries if it meets three criteria:
+According to UN, a country is classified among the Least Developed Countries if it meets three criteria:
 
 1.  Poverty – adjustable criterion based on GNIper capita averaged over three years. As of 2018 a country must have GNI per capita less than US$ 1,025 to be included on the list, and over $1,230 to graduate from it.
 
