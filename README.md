@@ -97,11 +97,12 @@ In Oceania, there are 4 countries that are classified as least developed countr
 
 #  What to do?
 
-It is recommends to get updated from [AYCH inc](https://aychome.github.io/)
+It is recommended to get updated from [AYCH inc](https://aychome.github.io/)
 
 
 #  Human rights from 30 articles by UN
 [The Universal Declaration of Human Rights](https://www.un.org/en/universal-declaration-human-rights/)
+
 The Universal Declaration of Human Rights (UDHR) is a milestone document in the history of human rights. Drafted by representatives with different legal and cultural backgrounds from all regions of the world, the Declaration was proclaimed by the United Nations General Assembly in Paris on 10 December 1948 (General Assembly resolution 217 A) as a common standard of achievements for all peoples and all nations. It sets out, for the first time, fundamental human rights to be universally protected and it has been translated into over 500 languages.
 
 Preamble
