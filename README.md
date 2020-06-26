@@ -13,7 +13,7 @@ Human resource weakness (based on indicators of nutrition, health, education
 
 Economic vulnerability (based on instability of agricultural production, instability of exports of goods and services, economic importance of non-traditional activities, merchandise export concentration, handicap of economic smallness, and the percentage of population displaced by natural disasters).
 
-As of 2018, 47 countries are classified as LDC, while five have been upgraded between 1994 and 2017.[4] The WTO recognizes the UN list of LDCs in toto. Philosophically,
+As of 2018, 47 countries are classified as LDC, while five have been upgraded between 1994 and 2017. The WTO recognizes the UN list of LDCs in toto. Philosophically,
 
 Measures taken in the framework of the WTO can help LDCs increase their exports to other WTO members and attract investment. In many developing countries, pro-market reforms have encouraged faster growth, diversification of exports, and more effective participation in the multilateral trading system.
 
@@ -135,4 +135,4 @@ In Oceania, there are 4 countries that are classified as least developed countr
 
 #  What to do?
 
-It is recommends to visit [AYCH inc](https://aychome.github.io/)
+It is recommends to get updated from [AYCH inc](https://aychome.github.io/)
