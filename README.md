@@ -5,7 +5,14 @@ This is part of AYCH operations for participation of social development.
 
 #  Least Developed Countries
 
-A country is classified among the Least Developed Countries if it meets three criteria:
+According to unctad.org, the 47 LDCs comprise around 880 million people, 12 per cent of the world population, which face severe structural impediments to growth. 
+
+The worldometers.info writes that the current world population is 7.8 billion as of June 2020 according to the most recent United Nations estimates elaborated by Worldometer. The term "World Population" refers to the human population (the total number of humans currently living) of the world.
+
+However, the LDCs account for less than 2 per cent of world GDP and around 1 per cent of world trade.
+
+
+According to UN, country is classified among the Least Developed Countries if it meets three criteria:
 
 1.  Poverty – adjustable criterion based on GNIper capita averaged over three years. As of 2018 a country must have GNI per capita less than US$ 1,025 to be included on the list, and over $1,230 to graduate from it.
 
@@ -28,109 +35,63 @@ Africa
 In Africa, there are 33 countries that are classified as least developed countries:
 
 ￼- Angola
-
 -￼ Benin
-
 ￼- Burkina Faso
-
 -￼ Burundi
-
 ￼- Central African Republic
-
 ￼- Chad
-
 ￼- Comoros
-
 ￼- Democratic Republic of the Congo
-
 -￼ Djibouti
-
 ￼- Eritrea
-
 ￼- Ethiopia
-
 ￼- Gambia
-
 ￼- Guinea
-
 ￼- Guinea-Bissau
-
 ￼- Lesotho
-
-￼- Liberia
-
+￼- Liberi
 ￼- Madagascar
-
 ￼- Malawi
-
 -￼ Mali
-
 -￼ Mauritania
-
 -￼ Mozambique
-
 ￼- Niger
-
 -￼ Rwanda
-
 ￼- São Tomé and Príncipe
-
 ￼- Senegal
-
 ￼- Sierra Leone
-
 ￼- Somalia
-
 ￼- South Sudan
-
 ￼- Sudan
-
 ￼- Tanzania
-
 ￼- Togo
-
 ￼- Uganda
-
 ￼- Zambia
 
 Americas
-
 In the Americas, there is 1 country that is classified as a least developed country:
 
 ￼- Haiti
 
 Asia
-
 In Asia, there are 9 countries that are classified as least developed countries:
 
 -￼ Afghanistan
-
 ￼- Bangladesh
-
 -￼ Bhutan
-
 ￼- Cambodia
-
 -￼ East Timor
-
 ￼- Laos
-
 ￼- Myanmar
-
 ￼- Nepal
-
 ￼- Yemen
 
 Oceania
-
 In Oceania, there are 4 countries that are classified as least developed countries:
 
 ￼- Kiribati
-
 ￼- Solomon Islands
-
 ￼- Tuvalu
-
 ￼- Vanuatu
 
 
